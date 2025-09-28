@@ -26,6 +26,7 @@ select the program and its location in the hard drive of the computer
 
 # Step 6:select the when should the rule is triggered
 <img width="873" height="621" alt="Screenshot 2025-09-28 192151" src="https://github.com/user-attachments/assets/a0cb422c-171c-4527-9fe9-b8de709cff44" />
+
 # Step 7:Name the Rule Which  is created
 <img width="929" height="612" alt="Screenshot 2025-09-28 192212" src="https://github.com/user-attachments/assets/dfe872b1-0684-4034-a652-f6090f08c9ca" />
 
